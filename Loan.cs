@@ -1,3 +1,5 @@
+// This page will calculate the loan amount
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
