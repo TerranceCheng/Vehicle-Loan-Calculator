@@ -1,3 +1,5 @@
+// This is the default (login/register page)
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
