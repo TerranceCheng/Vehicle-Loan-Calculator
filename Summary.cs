@@ -1,4 +1,4 @@
-// This is the user register page
+// This is the summary page
 
 ﻿using System;
 using System.Collections.Generic;
