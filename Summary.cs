@@ -1,3 +1,5 @@
+// This is the user register page
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
