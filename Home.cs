@@ -1,3 +1,5 @@
+// Description: This is the home page
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
